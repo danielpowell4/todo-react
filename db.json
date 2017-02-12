@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Go Outside",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "name": "Climb a Mountain",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "name": "Have a Great Day",
+      "isComplete": false
+    }
+  ]
+}
